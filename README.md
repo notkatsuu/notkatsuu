@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently courisng **IT & GameDev Double Degree at Tecnocampus**
 
-- 👨‍💻 All of my projects are available at [https://github.com/notkatsuu](https://github.com/notkatsuu)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/notkatsuu) and [Itch.io](https://notkatsuu.itch.io/)
 
 - 📫 How to reach me **pcastellar@edu.tecnocampus.cat**
 
